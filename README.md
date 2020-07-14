@@ -1,5 +1,7 @@
 ### Hello! I'm Carolyn. 
 
+Welcome to my home on GitHub.
+
 - 💬 Ask me about: technical writing, digital product management, accessibility, user experience, information architecture.
 - 📫 How to reach me: Twitter: [@chicagomom](https://twitter.com/chicagomom) | [LinkedIn](https://www.linkedin.com/in/carolynshannon/) | [website](https://carolynshannon.com)
 - 😄 Pronouns: she/her
