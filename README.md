@@ -1,6 +1,6 @@
 ## Hello! I'm Carolyn. 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=carolyn-shannon&show_icons=true&theme=dracula">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=carolyn-shannon&show_icons=true&theme=react">
 
 Welcome to my home on GitHub. I'm passionate about inclusive, accessible design that empowers teams and produces websites with a great user experience. I admire clear, elegant writing and information architecture that sparks joy. 😄 Pronouns: she/her
 
